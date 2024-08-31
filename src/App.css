@@ -1,0 +1,29 @@
+.App{
+    display: flex;
+    align-items: center;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.uxgyrList{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#root > div.all > button{
+    justify-content: center;
+    align-items: center;
+}
+#root > div.all > button{
+    margin-left: 48%;
+    margin-top: 25px;
+}
+
+
+
